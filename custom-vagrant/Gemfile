@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 ruby "2.1.5"
 group :development do
-  gem 'vagrant', github: 'Grace-Andrews/custom-vagrant.git'
+  gem 'vagrant'
 end
 
 # group :plugins do
